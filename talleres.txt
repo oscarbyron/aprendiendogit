@@ -1,4 +1,0 @@
-talleres
-
-- git
-- html
